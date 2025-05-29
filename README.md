@@ -38,4 +38,10 @@ This involves exploring the dataset to gain insights and answer key questions su
   - Who has worked the longest in the company?
 
 ### Data Analysis
-This is where we include 
+This is where we include some basic lines of code or queries or even some of DAX expression used during your analysis
+
+~~~  SQL
+SELECT A,B,C
+WHERE A> 15
+
+~~~
