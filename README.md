@@ -18,6 +18,24 @@ The data used for this project is a synthetic CSV file named employees.csv, crea
     - Data Cleaning
       1. Data manipulation
       2. Data Munching
+         
 - SQL Server (For Querying and Analysis)
 - Power BI (For Creating a Report)
 - Ms Power Point (for Presentation)
+
+### Data Cleaning and Preparation
+
+In this initial phase of the data cleaning and preparation, we perform the following actions;
+1. Data loading and Inspection
+2. Handling missing variables
+3. Data cleaning ad formatting
+
+### Exploratory Data Analysis
+This involves exploring the dataset to gain insights and answer key questions such as:
+
+  - Which department has the most employees?
+  - What is the average salary?
+  - Who has worked the longest in the company?
+
+### Data Analysis
+This is where we include 
